@@ -1,4 +1,4 @@
-## Question d'entretien d'embauche (sans l'ordinateur) - 1h - 20pts/100
+## Question d'entretien d'embauche (sans l'ordinateur) - 1h - 20/100pts
 
 - Est-ce que JavaScript est un langage orienté objet ?
 - Est-ce qu'on peut faire des serveurs avec JavaScript ?
@@ -11,7 +11,7 @@
 - Une fonction peut-elle prendre comme argument une fonction ?
 - Quel est votre langage de programmation préféré ?
 
-## Exercice - 5h - 80pts/100
+## Exercice - 5h - 80/100pts
 
 Pour cette exercice, vous avez droit a toutes les sources d'information, mais pas à la communication.
 
@@ -21,7 +21,7 @@ Dans `./src/data/makis.js`, une liste de makis japonais est exportée.
 
 - Ajouter des makis à cette listes sur le même modèle (avocat, concombre, omelette).
 
-Dans `./public/index.html`, notre page d'accueil, une `div` a l'id `app`. Le script `./src/index.js` est déjà lié grâce à webpack.
+Dans `./public/index.html` (la page d'accueil) il y une `div` a l'id `app`. Le script `./src/index.js` est déjà lié à cette page grâce à webpack.
 
 L'exercice est la création dynamique d'un magasin en ligne de maki (type Makisu ou Sushishop).
 
