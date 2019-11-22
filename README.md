@@ -35,3 +35,10 @@ Sans JAMAIS toucher le HTML:
 - On peut aussi supprimer un maki avant la commande
 - lorqu'on clic sur un bouton "acheter", une copie du maki est mis dans le panier
 - Lorqu'on clic sur "commander" dans le footer, la page entière se vide, et affiche "Votre commande est en cours de livraison. Elle arrivera dans `x` minutes", ou `x` est le nombre de boite de maxi \* 6.
+
+Bonus (pas compté dans le points, sauf en bonus):
+- Améliorer l'affichage de votre site grâce au css
+- Mettez les makis dans un fichier JSON valide, dans les assets, et requêtez le avec `fetch` ou `axios` au début du code
+- Un bouton permet de vider tout le panier
+- Les sushis végétariens ont une bordure verte
+- Si l'utilisateur achète plus de 50€ de sushi, il a un discount de 20% sur sa commande
