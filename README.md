@@ -13,7 +13,7 @@
 
 ## Exercice - 5h - 80/100pts
 
-Pour cette exercice, vous avez droit a toutes les sources d'information, mais pas à la communication.
+Pour cet exercice, vous avez droit a toutes les sources d'information, mais pas à la communication.
 
 Les copier/coller de code d'internet seront sanctionné.
 
